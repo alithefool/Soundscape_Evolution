@@ -1,0 +1,10 @@
+/home/alex/Documents/IT/Proyectos/Soundscape_Evolution/target/release/deps/libsymphonia_utils_xiph-e78944d8f3f4ab77.rmeta: /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/lib.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/flac/mod.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/flac/metadata.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/vorbis/mod.rs
+
+/home/alex/Documents/IT/Proyectos/Soundscape_Evolution/target/release/deps/libsymphonia_utils_xiph-e78944d8f3f4ab77.rlib: /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/lib.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/flac/mod.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/flac/metadata.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/vorbis/mod.rs
+
+/home/alex/Documents/IT/Proyectos/Soundscape_Evolution/target/release/deps/symphonia_utils_xiph-e78944d8f3f4ab77.d: /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/lib.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/flac/mod.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/flac/metadata.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/vorbis/mod.rs
+
+/home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/lib.rs:
+/home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/flac/mod.rs:
+/home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/flac/metadata.rs:
+/home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-utils-xiph-0.5.4/src/vorbis/mod.rs:

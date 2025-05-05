@@ -1,0 +1,10 @@
+/home/alex/Documents/IT/Proyectos/Soundscape_Evolution/target/release/deps/libsymphonia_codec_adpcm-8ea36d49b327d4fa.rmeta: /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/lib.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/codec_ima.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/codec_ms.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/common.rs
+
+/home/alex/Documents/IT/Proyectos/Soundscape_Evolution/target/release/deps/libsymphonia_codec_adpcm-8ea36d49b327d4fa.rlib: /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/lib.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/codec_ima.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/codec_ms.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/common.rs
+
+/home/alex/Documents/IT/Proyectos/Soundscape_Evolution/target/release/deps/symphonia_codec_adpcm-8ea36d49b327d4fa.d: /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/lib.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/codec_ima.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/codec_ms.rs /home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/common.rs
+
+/home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/lib.rs:
+/home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/codec_ima.rs:
+/home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/codec_ms.rs:
+/home/alex/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/symphonia-codec-adpcm-0.5.4/src/common.rs:
